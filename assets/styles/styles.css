@@ -1,0 +1,27 @@
+/* styling untuk card */
+.card {
+  text-align: center;
+  width: 100%;
+  height: auto;
+}
+
+/* styling untuk section features */
+.features {
+  padding: 50px 0;
+}
+
+.features .icon {
+  font-size: 3rem;
+  margin-bottom: 10px;
+}
+
+.features h3 {
+  margin-bottom: 20px;
+}
+
+/* styling untuk footer */
+footer {
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+}
